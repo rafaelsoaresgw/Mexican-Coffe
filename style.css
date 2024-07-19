@@ -313,6 +313,19 @@ section {
         gap: 10px; /* Espaçamento entre os ícones */
     }
 
+
+    img {
+    max-width: 100%;
+    height: auto;
+}
+
+    .container-image img {
+    width: 100%;
+    height: auto;
+}
+
+
+
     .icons img {
         width: 25px;
         height: 25px;
